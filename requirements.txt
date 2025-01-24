@@ -1,6 +1,5 @@
-streamlit
-pickle
-pandas
 numpy
-nltk
-scikit-learn
+pandas
+scikit_learn
+streamlit
+xgboost
